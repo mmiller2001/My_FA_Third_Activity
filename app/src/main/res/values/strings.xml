@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Marlon Miller Chess Master</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="newButton">Third Activity</string>
+    <string name="my_text">My name is Marlon Miller. I am a Senior Computer Science concentrated in Software Engineering. My hobbies are involved in chess, soccer, spending time with friends and family, and most importantly, God. I am from Honduras and this class is exciting because I have always been a fan of creating mobile apps and websites that can be published for the world to see. My favorite show is Attack on Titan, where the famous quote is: &quot;TATAKAE!&quot;</string>
+</resources>
